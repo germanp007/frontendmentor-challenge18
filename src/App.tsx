@@ -1,6 +1,4 @@
-import Media from "./Media";
-import Avatar from "./component/Avatar";
-import Description from "./component/Description";
+import { Avatar, Description, Media } from "./component";
 
 interface MediaProps {
   id: number;
