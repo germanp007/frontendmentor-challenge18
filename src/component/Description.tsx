@@ -5,7 +5,7 @@ const Description = () => {
       <h2 className="font-medium text-sm text-Green mb-[24px]">
         London, United Kingdom
       </h2>
-      <h3 className="font-extralight text-[14px] mb-[26px] tracking-wide">
+      <h3 className="font-light text-[14px] mb-[26px] tracking-wide">
         "Front-end developer and avid reader."
       </h3>
     </>
